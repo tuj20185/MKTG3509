@@ -1,7 +1,7 @@
 # MKTG3509 Customer Data Analytics Portfolio
 
-##My Resumé
+## My Resumé
 
 
 
-##Table of Contents
+## Table of Contents
