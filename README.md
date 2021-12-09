@@ -1,4 +1,6 @@
 # MKTG3509 Customer Data Analytics Portfolio
+---
+This is a portfolio of a select sample of my class assignments for MKTG3509 Customer Data Analytics at Temple University. I've added two assignents, one in each module. 
 
 ## My Resumé
 ---
